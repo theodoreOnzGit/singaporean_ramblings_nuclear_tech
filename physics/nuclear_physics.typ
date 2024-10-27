@@ -23,5 +23,13 @@ spherical harmonics @2021Schrodinger. We see this when we compute
 quantum energy levels and states for the hydrogen atom 
 @2022Hydrogen.
 
+From spherical harmonics, we get three important quantum numbers.
+$n$ is the principal quantum number representing energy levels.
+$l$ is the quantum number representing angular momentum.
+$m$ is the quantum number representing angular momentum projection
+(or magnetic orbital quantum number) @2022Orbital.
+
+
+
 #bibliography("physics.bib")
 
