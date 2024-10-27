@@ -29,6 +29,19 @@ $l$ is the quantum number representing angular momentum.
 $m$ is the quantum number representing angular momentum projection
 (or magnetic orbital quantum number) @2022Orbital.
 
+= Energy Transitions
+
+As a result of Schrodinger's equation and spherical harmonics, 
+we get that there are fixed energy levels for hydrogen atoms
+@2022Atomic.
+Even for more complex atoms such as Sodium or Mercury, there 
+are fixed energy levels @2022Atomic, but they will differ from Hydrogen
+because the electric force fields differ. In the same way,
+the strong nuclear force field is much stronger than the 
+electric force field, and the nucleus itself will have energy 
+transitions resulting in release of light energy (gamma radiation).
+This is the basis of gamma decay @2022Nuclear. 
+
 
 
 #bibliography("physics.bib")
