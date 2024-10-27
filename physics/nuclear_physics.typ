@@ -15,7 +15,13 @@ Energy to wavelength (De Broglie) @2021Schrodinger:
 
 $ lambda = h/p $
 
+= Spherical Harmonics
 
+Due to a spherical shaped electrical force field, we cannot 
+just use sine waves in 1D, but we need the 3D version,
+spherical harmonics @2021Schrodinger. We see this when we compute 
+quantum energy levels and states for the hydrogen atom 
+@2022Hydrogen.
 
 #bibliography("physics.bib")
 
