@@ -57,8 +57,30 @@ In lecture (or more correctly, rambling) no.9, i messed up badly because I
 didn't really know what I was talking about. A more correct explanation 
 can be found in arXiv (pronounced archive) @kumericki2016feynman. However,
 the most useful video conceptually is that from ScienceClic @2021ScienceClic.
+Rather than take the old wrong video down, I left it up, partly out of 
+convenience, and partly because it's better to learn from mistakes.
+
+Now, there is much to discuss about Feynman diagrams, such as superposition 
+and etc.. However, I only want to use them to visualise weak nuclear force 
+interactions. For that, even my mistakenly drawn Feynman diagrams were 
+somewhat useful.
+
+Important rules for Feynman Diagrams:
+
+1. Arrows in equals arrows out at each vertex
+2. Conservation of momentum, energy, spin, charge etc. at each vertex
+3. Fermions have arrows w/ straight lines, bosons have squiggly lines/dashed lines with NO arrows
+4. Antimatter fermions (eg. positrons, antineutrinos) arrows flow against the flow of time
 
 
+Fermions = protons, neutrons, quarks, electrons, neutrinos/antineutrions
+
+Fermions are classified by spin.
+
+= Binding Energy 
+
+To understand nuclear reactions, it's important to understand 
+binding energy @2022BindingEnergy. 
 
 
 
