@@ -52,5 +52,16 @@ of matter. Its probability can be calculated using Schrodinger's equation.
 Beta Decay is special, it is better explained using the Standard Model 
 and the W and Z bosons that mediate the Weak Nuclear force @2023StandardModel.
 
+For Beta Decay, Feynman diagrams are handy in order to visualise what's going on.
+In lecture (or more correctly, rambling) no.9, i messed up badly because I 
+didn't really know what I was talking about. A more correct explanation 
+can be found in arXiv (pronounced archive) @kumericki2016feynman. However,
+the most useful video conceptually is that from ScienceClic @2021ScienceClic.
+
+
+
+
+
+
 #bibliography("physics.bib")
 
