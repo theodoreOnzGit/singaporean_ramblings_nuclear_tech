@@ -80,7 +80,8 @@ Fermions are classified by spin.
 = Binding Energy 
 
 To understand nuclear reactions, it's important to understand 
-binding energy @2022BindingEnergy. 
+binding energy @2022BindingEnergy. Binding energy can be calculated 
+using nuclear wallet cards @tuli1995nuclear.
 
 
 
